@@ -1,4 +1,10 @@
 # Forest_Fire_Classification
+#### Google Developer Student Club UIN Syarif Hidayatullah Jakarta (Intermediate Machine Learning Class)
+
+This project is the final assignment of GDSC UIN Jakarta for the intermediate machine learning class.
+In this project I classify using an artificial neural network for a forest fire dataset.
+Classification tries to compare performance for the cases of binary classification, multi-class classification and regression.
+
 #### Forest Fires
 Donated on 2/28/2008
 This is a difficult regression task, where the aim is to predict the burned area of forest fires, in the northeast region of Portugal, by using meteorological and other data (see details at: http://www.dsi.uminho.pt/~pcortez/forestfires).
